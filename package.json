@@ -1,6 +1,6 @@
 {
   "author": {
-    "name": "doublespout",
+    "name": "zmox",
     "email": "snoopyxdy@163.com",
     "url": "http://snoopyxdy.blog.163.com"
   },
@@ -14,11 +14,11 @@
     "CImg"
   ],
   "version": "0.6.10",
-  "url": "https://github.com/DoubleSpout/ccap",
-  "homepage": "https://github.com/DoubleSpout/ccap",
+  "url": "https://github.com/zmox/ccap",
+  "homepage": "https://github.com/zmox/ccap",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DoubleSpout/ccap.git"
+    "url": "https://github.com/zmox/ccap.git"
   },
   "main": "index.js",
   "engines": {
@@ -42,6 +42,5 @@
     "node-schedule": "0.1.13",
     "bindings": "~1.2.1",
     "nan": "^2.0.0"
-  },
-  "_resolved": "https://registry.npmjs.org/ccap/-/ccap-0.3.4.tgz"
+  }
 }
